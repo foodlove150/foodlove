@@ -5,7 +5,9 @@ TemplateMo 556 Catalog-Z
 https://templatemo.com/tm-556-catalog-z
 
 */
-
+h3{
+    color: red;
+}
 #loader-wrapper {
     position: fixed;
     top: 0;
@@ -145,6 +147,7 @@ https://templatemo.com/tm-556-catalog-z
 p { line-height: 1.8;
     font-weight: bold;
     color: black !important;
+    text-transform: uppercase !important;
 }
 
 a { 
